@@ -1,0 +1,51 @@
+.header{
+    padding: 5x 120px;
+    width: 150px;
+    height: 70px;
+    background-color: aquamarine;
+
+}
+
+.border{
+    padding:80px 50px;
+    width:400px;
+    height:450px;
+    border:1px solid rgb(255, 0, 0);
+    border-radius:0px;
+    background-color: aqua;
+}
+
+.btn{
+    padding: 10px 40px;
+    background-color: rgba(50, 150, 243, 0.966);
+    color:wheat;
+    font-style: oblique;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.textbox{
+    padding:10px 40px;
+    background-color: rgba(50, 150, 243, 0.966);
+    color: wheat;
+    border-radius: 10px;
+}
+
+:placeholder{
+    color: wheat;
+    opacity: 0.7;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.word{
+    color: wheat;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.bottom{
+    color: wheat;
+    font-style: oblique;
+    font-weight: bold;
+}
